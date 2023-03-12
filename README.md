@@ -1,4 +1,4 @@
-# navigation
+# react-navigation
 
 ✔️ SAYFALAR ARASI VERİ AKTARIMI
 ✔️ REACT NAVİGATİON
